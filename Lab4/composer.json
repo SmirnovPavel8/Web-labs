@@ -1,0 +1,8 @@
+{
+    "name": "vendor/demo-autoload-composer",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
